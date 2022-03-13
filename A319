@@ -27,7 +27,6 @@ local UICorner_8 = Instance.new("UICorner")
 
 A319.Name = "A319"
 A319.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-A319.Enabled = false
 A319.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Frame.Parent = A319
@@ -55,7 +54,7 @@ TextLabel_2.BorderColor3 = Color3.fromRGB(27, 42, 53)
 TextLabel_2.Position = UDim2.new(-7.4505806e-09, 0, 0.898734152, 0)
 TextLabel_2.Size = UDim2.new(0, 200, 0, 50)
 TextLabel_2.Font = Enum.Font.GothamBold
-TextLabel_2.Text = "config stuff in executor"
+TextLabel_2.Text = "A319 version"
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextSize = 16.000
 
@@ -138,7 +137,7 @@ UICorner_8.Parent = TextButton_7
 
 -- Scripts:
 
-local function SWTFHIZ_fake_script() -- TextButton.LocalScript 
+local function VLBPLZ_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local button = script.Parent
@@ -151,8 +150,8 @@ local function SWTFHIZ_fake_script() -- TextButton.LocalScript
 	
 	
 end
-coroutine.wrap(SWTFHIZ_fake_script)()
-local function NXZYJ_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(VLBPLZ_fake_script)()
+local function HAGGQPV_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	local button = script.Parent
@@ -165,8 +164,8 @@ local function NXZYJ_fake_script() -- TextButton_2.LocalScript
 	
 	
 end
-coroutine.wrap(NXZYJ_fake_script)()
-local function WCTCBKK_fake_script() -- TextButton_3.LocalScript 
+coroutine.wrap(HAGGQPV_fake_script)()
+local function XTPNW_fake_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	local button = script.Parent
@@ -179,8 +178,8 @@ local function WCTCBKK_fake_script() -- TextButton_3.LocalScript
 	
 	
 end
-coroutine.wrap(WCTCBKK_fake_script)()
-local function RREWQ_fake_script() -- TextButton_4.LocalScript 
+coroutine.wrap(XTPNW_fake_script)()
+local function IGYKCW_fake_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	local button = script.Parent
@@ -193,8 +192,8 @@ local function RREWQ_fake_script() -- TextButton_4.LocalScript
 	
 	
 end
-coroutine.wrap(RREWQ_fake_script)()
-local function WOKCFHV_fake_script() -- TextButton_5.LocalScript 
+coroutine.wrap(IGYKCW_fake_script)()
+local function AQWTDMY_fake_script() -- TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_5)
 
 	local button = script.Parent
@@ -208,8 +207,8 @@ local function WOKCFHV_fake_script() -- TextButton_5.LocalScript
 	
 	
 end
-coroutine.wrap(WOKCFHV_fake_script)()
-local function SGQH_fake_script() -- TextButton_6.LocalScript 
+coroutine.wrap(AQWTDMY_fake_script)()
+local function JQPC_fake_script() -- TextButton_6.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_6)
 
 	local button = script.Parent
@@ -223,8 +222,8 @@ local function SGQH_fake_script() -- TextButton_6.LocalScript
 	
 	
 end
-coroutine.wrap(SGQH_fake_script)()
-local function OKIQ_fake_script() -- TextButton_7.LocalScript 
+coroutine.wrap(JQPC_fake_script)()
+local function OSVZY_fake_script() -- TextButton_7.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_7)
 
 	local button = script.Parent
@@ -238,4 +237,4 @@ local function OKIQ_fake_script() -- TextButton_7.LocalScript
 	
 	
 end
-coroutine.wrap(OKIQ_fake_script)()
+coroutine.wrap(OSVZY_fake_script)()
